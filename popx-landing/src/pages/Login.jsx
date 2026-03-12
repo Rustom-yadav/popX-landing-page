@@ -42,7 +42,11 @@ export default function Login() {
             onChange={(e) => setPassword(e.target.value)}
           />
         </label>
-        <button type="submit" className="btn primary btn-full btn-login" disabled>
+        <button
+          type="submit"
+          className="btn primary btn-full btn-login"
+          disabled={!email.trim() || !password.trim()}
+        >
           Login
         </button>
       </form>
