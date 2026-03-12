@@ -1,6 +1,6 @@
 # PopX
 
-A single-page React app that replicates the PopX mobile landing experience. The UI is a centered phone-style frame with four screens: Landing, Login, Signup, and Profile. Built with React, Vite, and React Router.
+A single-page React app that replicates the PopX mobile landing experience. The project lives in the **educase-india-assignment** root folder. The UI is a centered phone-style frame with four screens: Landing, Login, Signup, and Profile. Built with React, Vite, and React Router.
 
 ## Features
 
