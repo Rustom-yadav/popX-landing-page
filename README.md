@@ -1,6 +1,6 @@
 # PopX
 
-🔗 **Live:** [View Demo](https://popx-landing.vercel.app/) 
+🔗 **Live:** [View Demo](pop-x-landing-page-psi.vercel.app/) 
 📂 **Repo:** [GitHub](https://github.com/Rustom-yadav/educase-india-assignment)
 
 A single-page React app that replicates the PopX mobile landing experience. The project lives in the **educase-india-assignment** root folder. The UI is a centered phone-style frame with four screens: Landing, Login, Signup, and Profile. Built with React, Vite, and React Router.
